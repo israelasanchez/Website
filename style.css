@@ -1,3 +1,7 @@
+* {
+  font-size: 100%;
+}
+
 body {
   background-color: HoneyDew;
   color: DarkSlateBlue;
@@ -13,7 +17,3 @@ h1{
 }
 
 /* comment */
-
-* {
-  font-size: 100%;
-}
