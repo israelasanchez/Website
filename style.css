@@ -5,8 +5,12 @@ body {
   font-size: 14px;
 }
 
-h1 {
+header h1 {
   color: Black;
+}
+
+header h1{
+  text-align: center;
 }
 
 h1{
@@ -34,7 +38,11 @@ h1, h2, h3 {
   font-style: italic;
 }
 
-em {
+ em {
   font-weight: bold;
   font-style: italic;
+}
+
+p {
+  line-height: 2;
 }
