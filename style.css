@@ -1,11 +1,8 @@
-* {
-  font-size: 100%;
-}
-
 body {
   background-color: HoneyDew;
   color: DarkSlateBlue;
   font-family: Arial;
+  font-size: 100%;
 }
 
 h1 {
@@ -16,4 +13,6 @@ h1{
   font-family: Arial Black, Tahoma;
 }
 
-/* comment */
+/* * {
+  font-size: 100%;
+} */
