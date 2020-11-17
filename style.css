@@ -35,5 +35,6 @@ h1, h2, h3 {
 }
 
 em {
+  font-weight: bold;
   font-style: italic;
 }
