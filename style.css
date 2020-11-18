@@ -53,3 +53,8 @@ p {
   margin-right: auto;
   width: 50%;
 }
+
+footer a:hover {
+  color: Aqua;
+  text-decoration: none:
+}
