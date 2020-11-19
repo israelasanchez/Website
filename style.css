@@ -45,9 +45,17 @@ h1, h2, h3 {
   font-style: italic;
   margin-bottom: 20px;
   margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 div.topheader1 {
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+}
+
+div.description {
   border-width: 5px;
   border-style: solid;
   border-color: black;
@@ -66,8 +74,8 @@ p {
 p {
   margin-top: 20px;
   margin-bottom: 20px;
-  margin-right: 0px;
-  margin-left: 0px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .center {
@@ -83,5 +91,6 @@ footer a:hover {
 }
 
 div.image1 {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
