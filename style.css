@@ -12,6 +12,12 @@ body {
   Margin: 50px;
 }
 
+/* header,
+section,
+footer {
+  padding: 30px;
+} */
+
 header h1 {
   color: Black;
 }
@@ -40,7 +46,16 @@ h3 {
   font-size: 18px;
 }
 
-h1, h2, h3 {
+h1 {
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+h2, h3 {
   font-weight: bold;
   font-style: italic;
   margin-bottom: 10px;
