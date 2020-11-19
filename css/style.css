@@ -6,7 +6,7 @@
 }
 
 body {
-
+  background-image: url(images/oriental-tiles.png);
   /* background-color: SeaShell; */
   /* color: Black; */
   font-family: Arial;
@@ -73,28 +73,47 @@ div.topheader1 {
   border-color: grey;
 }
 
+div.nav {
+  text-align: center;
+  border-width: 5px;
+  border-style: inset;
+  border-color: grey;
+}
+
+link{
+  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
 div.description {
   border-width: 5px;
   border-style: inset;
   border-color: grey;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 div.objective {
   border-width: 5px;
   border-style: inset;
   border-color: grey;
+  margin-bottom: 20px;
 }
 
 div.gamemodes {
   border-width: 5px;
   border-style: inset;
   border-color: grey;
+  margin-bottom: 20px;
 }
 
 div.ranked {
   border-width: 5px;
   border-style: inset;
   border-color: grey;
+  margin-bottom: 20px;
 }
 
  em {
