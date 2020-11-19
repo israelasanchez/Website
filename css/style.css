@@ -5,8 +5,14 @@
   /* border: 10px solid black; */
 }
 
+body{
+  background-image: url(../images/apex_legends-original.jpg);
+  background-position: top, center;
+  background-size: cover;
+  height: 500px;
+}
+
 body {
-  background-image: url(images/oriental-tiles.png);
   /* background-color: SeaShell; */
   /* color: Black; */
   font-family: Arial;
@@ -31,6 +37,10 @@ header h1{
 
 h1{
   font-family: Arial, Tahoma;
+}
+
+header h1 {
+  color: white;
 }
 
 /* * {
@@ -78,7 +88,20 @@ div.nav {
   border-width: 5px;
   border-style: inset;
   border-color: grey;
+  margin-top: 20px;
 }
+
+header a:link {
+  color: white;
+  text-decoration: none;
+}
+
+header a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+
 
 link{
   margin-bottom: 20px;
