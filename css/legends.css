@@ -36,10 +36,20 @@ h1 {
 
 h2 {
   font-size: 24px;
+  text-align: center;
 }
 
 h3 {
   font-size: 18px;
+}
+
+h2, h3 {
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .center {
@@ -56,7 +66,46 @@ div.topheader2 {
   background: rgba(255, 245, 238, 0.3)
 }
 
-div.image3 {
+div.bloodhoundimage {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+div.bloodhound {
+  border-width: 5px;
+  border-style: inset;
+  border-color: grey;
+  background: rgba(255, 245, 238, 0.3);
+  margin-top: 20px;
+  margin-bottom: 20px;
+ }
+
+div.wraithimage {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+div.wraith {
+   border-width: 5px;
+   border-style: inset;
+   border-color: grey;
+   background: rgba(255, 245, 238, 0.3);
+   margin-top: 20px;
+   margin-bottom: 20px;
+ }
+
+p {
+  line-height: 2;
+  text-align: justify;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-family: verdana;
+  color: Black;
+}
+
+ol, ul {
   margin-bottom: 20px;
   margin-top: 20px;
 }
