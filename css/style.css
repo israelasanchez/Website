@@ -76,6 +76,7 @@ div.topheader1 {
   border-width: 5px;
   border-style: inset;
   border-color: grey;
+  background: rgba(255, 245, 238, 0.3)
 }
 
 div.nav {
@@ -84,6 +85,7 @@ div.nav {
   border-style: inset;
   border-color: grey;
   margin-top: 20px;
+  background: rgba(255, 245, 238, 0.3)
 }
 
 header a:link {
@@ -95,8 +97,6 @@ header a:visited {
   color: white;
   text-decoration: none;
 }
-
-
 
 link{
   margin-bottom: 20px;
@@ -111,6 +111,7 @@ div.description {
   border-color: grey;
   margin-top: 20px;
   margin-bottom: 20px;
+  background: rgba(255, 245, 238, 0.3)
 }
 
 div.objective {
@@ -118,6 +119,7 @@ div.objective {
   border-style: inset;
   border-color: grey;
   margin-bottom: 20px;
+  background: rgba(255, 245, 238, 0.3)
 }
 
 div.gamemodes {
@@ -125,6 +127,7 @@ div.gamemodes {
   border-style: inset;
   border-color: grey;
   margin-bottom: 20px;
+  background: rgba(255, 245, 238, 0.3)
 }
 
 div.ranked {
@@ -132,11 +135,13 @@ div.ranked {
   border-style: inset;
   border-color: grey;
   margin-bottom: 20px;
+  background: rgba(255, 245, 238, 0.3)
 }
 
  em {
   font-weight: bold;
   font-style: italic;
+  text-decoration: underline;
 }
 
 p {
@@ -147,6 +152,7 @@ p {
   margin-right: 20px;
   margin-left: 20px;
   font-family: verdana;
+  color: Black;
 }
 
 .center {
