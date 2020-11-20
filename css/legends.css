@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  line-height: 1;
+  /* box-sizing: border-box; */
+  /* border: 10px solid black; */
+}
+
+body{
+  background-image: url(../images/apex_legends-original.jpg);
+  background-position: top, center;
+  background-size: cover;
+  /* height: 500px; */
+  /* background-color: SeaShell; */
+  /* color: Black; */
+  font-family: Arial;
+  font-size: 18px;
+  Margin: 50px;
+  /* padding: 50px; */
+}
+
+header h1{
+  text-align: center;
+  color: white;
+
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+div.topheader2 {
+  border-width: 5px;
+  border-style: inset;
+  border-color: grey;
+  background: rgba(255, 245, 238, 0.3)
+}
+
+div.image3 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
